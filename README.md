@@ -5,6 +5,8 @@ Pesquisas indicam que cerca de 50% dos tempos de viagem nas grandes cidades e 30
 
 O objetivo do projeto é Controlar um cruzamento constituído de duas vias e dois semáforos utilizando de abordagens simples de visão computacional. Otimizar o fluxo de veículos, reduzindo o tempo de espera e parada. Reconhecer veículos automotores que possuem prioridades em cada via.
 
+![alt text](https://github.com/FabioRSJunior/Controle_Trafego_Smart_Cities_2018/blob/main/images_projeto/Funcionando_reconhecendo.png)
+
 As tecnologias propostas foram desenvolvidas a partir da combinação de duas soluções principais, sendo o método Viola-Jones para detectar em um frame a existência de um veiculo e a ferramenta de Histogramas de Padrões Binários Locais (LBPH) que permite o reconhecimento de padrões na região contendo o veiculo, sendo este o responsável por indicar os carros que possuem prioridade. O processo de validação da proposta foi feito mediante a experimentação através de testes em ambiente controlado. 
 
 O protótipo foi capaz de identificar e reconhecer os veículos em tempo real, sendo capaz de decidir de forma inteligente qual das vias deveria ter a livre passagem. Desta forma, teve êxito quanto a diminuição do tempo de parada dos veículos e como consequência a diminuição da emissão de gases poluentes. O sistema se mostra sensível quanto a variação de luminosidade na etapa de reconhecimento de veículos prioritários.
