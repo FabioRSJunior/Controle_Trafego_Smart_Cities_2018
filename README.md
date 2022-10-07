@@ -1,4 +1,4 @@
-# Controle_Trafego_Smart_Cities_2018
+# Controle_Trafego_Smart_Cities
 Pibic 2018 - Cefet - Araxá 
 
 Pesquisas indicam que cerca de 50% dos tempos de viagem nas grandes cidades e 30% do consumo de gasolina são gastos nos semáforos, esperando que o sinal passe do período de vermelho para o verde (DENATRAN, 1979). Desta forma, controlar o tráfego de veículos de maneira eficiente deixou de ser mero conforto e se tornou uma grande necessidade em decorrência do aumento substancial da frota de veículos, sendo assim, um semáforo controlado por câmeras evidencia uma opção eficiente e ecologicamente contributiva no panorama social.
